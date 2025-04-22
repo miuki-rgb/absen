@@ -1,0 +1,5 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color> <!-- Ungu -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Ungu gelap -->
+    <color name="colorAccent">#03DAC5</color> <!-- Hijau turquoise -->
+</resources>
